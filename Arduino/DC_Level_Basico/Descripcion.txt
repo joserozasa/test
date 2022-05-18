@@ -1,0 +1,6 @@
+Este archivo funciona con la version basica del motor driver.
+
+Este shield es mas facil de encontrar. 
+
+En este caso, en vez de rele entregando 12v y luego bajandolo a 8v, entrega directamente 8v con un dc driver PMW parta el led y los motores. 
+

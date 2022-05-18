@@ -1,0 +1,3 @@
+Este archivo funciona con la version nueva del shield de motores, que es mas dificil de encontrar por eso se creo la otra.
+
+Por otro lado, a este llegan directamente 12v (desde un rele en principio) que luego se convertian a aprox 8 v con un step-down driver, que luego iba hacia el led y hacia energizar los motores. Este shield tiene un espacio para prototipado, ahi se soldaba el step-down driver.

@@ -1,0 +1,1038 @@
+2022-04-25 09:57:34,709:User_settings:Maquina: jetson
+2022-04-25 09:57:34,713:User_settings:Calibration device port: /dev/ttyACM0
+2022-04-25 09:57:34,714:User_settings:Grlb device port: /dev/ttyACM2
+2022-04-25 09:57:34,716:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-04-25 09:57:37,388:main:Puertos listos, comenzando programa
+2022-04-25 09:57:38,206:main:Esperando a una hora dentro de [[18, 1]] para comenzar muestreo
+2022-04-25 18:01:01,381:main:----------------------------Process started--------------------------
+2022-04-25 18:05:03,364:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-2518_01_01
+2022-04-25 18:05:03,369:main_functions:La placa 1 comenzo el proceso de decantacion que dura 5.0 minutos
+2022-04-25 18:10:03,368:main_functions:Placa 1 decantacion completa
+2022-04-25 18:10:03,369:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-2518_01_01
+2022-04-25 18:23:00,795:arduino_manager:Problema al enviar comando: b'$x\n', antes se enviava nuevamente, esa parte esta comentada
+2022-04-25 18:24:29,919:User_settings:Luego de 3 intentos no se pudo conectar los puertos correctamente
+2022-04-25 18:24:29,919:User_settings:Maquina: jetson
+2022-04-25 18:24:29,920:User_settings:Calibration device port: no
+2022-04-25 18:24:29,920:User_settings:Grlb device port: /dev/ttyACM2
+2022-04-25 18:24:29,920:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-04-25 18:56:16,710:main_functions:Folder :/media/sams4/UNTITLED/2022-04-2518_01_01 Complete
+2022-04-25 18:56:27,109:main:Escaneada la muestra numero:0
+2022-04-26 07:30:34,217:User_settings:Maquina: jetson
+2022-04-26 07:30:34,228:User_settings:Calibration device port: /dev/ttyACM0
+2022-04-26 07:30:34,232:User_settings:Grlb device port: /dev/ttyACM2
+2022-04-26 07:30:34,233:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-04-26 07:30:37,101:main:Puertos listos, comenzando programa
+2022-04-26 07:30:37,854:main:Esperando a una hora dentro de [[18, 1]] para comenzar muestreo
+2022-04-26 18:01:01,317:main:----------------------------Process started--------------------------
+2022-04-26 18:05:03,284:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-2618_01_01
+2022-04-26 18:05:03,287:main_functions:La placa 1 comenzo el proceso de decantacion que dura 5.0 minutos
+2022-04-26 18:10:03,287:main_functions:Placa 1 decantacion completa
+2022-04-26 18:10:03,287:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-2618_01_01
+2022-04-27 07:30:12,050:User_settings:Maquina: jetson
+2022-04-27 07:30:12,062:User_settings:Calibration device port: /dev/ttyACM0
+2022-04-27 07:30:12,066:User_settings:Grlb device port: /dev/ttyACM2
+2022-04-27 07:30:12,067:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-04-27 07:30:15,034:main:Puertos listos, comenzando programa
+2022-04-27 07:30:15,991:main:Esperando a una hora dentro de [[18, 1]] para comenzar muestreo
+2022-04-27 11:28:31,403:arduino_manager:Problema al enviar comando: b'$x\n', antes se enviava nuevamente, esa parte esta comentada
+2022-04-27 11:28:58,640:User_settings:Maquina: jetson
+2022-04-27 11:28:58,644:User_settings:Calibration device port: /dev/ttyACM0
+2022-04-27 11:28:58,646:User_settings:Grlb device port: /dev/ttyACM2
+2022-04-27 11:28:58,648:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-04-27 11:29:01,294:main:Puertos listos, comenzando programa
+2022-04-27 11:29:02,112:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-04-27 11:29:02,113:main:----------------------------Process started--------------------------
+2022-04-27 11:29:02,903:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1412_16_36
+2022-04-27 11:33:19,724:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-2711_29_02
+2022-04-27 11:33:19,725:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-04-27 12:03:19,725:main_functions:Placa 1 decantacion completa
+2022-04-27 12:03:19,725:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-2711_29_02
+2022-04-27 15:24:44,124:main_functions:Folder :/media/sams4/UNTITLED/2022-04-2711_29_02 Complete
+2022-04-27 15:24:54,287:main:Escaneada la muestra numero:0
+2022-04-27 15:30:11,723:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-2715_24_54
+2022-04-27 15:30:11,723:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-04-27 16:00:11,723:main_functions:Placa 1 decantacion completa
+2022-04-27 16:00:11,724:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-2715_24_54
+2022-04-27 19:21:24,609:main_functions:Folder :/media/sams4/UNTITLED/2022-04-2715_24_54 Complete
+2022-04-27 19:21:34,734:main:Escaneada la muestra numero:1
+2022-04-27 19:21:35,443:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1416_05_00
+2022-04-27 19:21:45,756:main_functions:Sin energia
+2022-04-27 19:26:51,107:main_functions:Sin energia
+2022-04-27 19:31:56,460:main_functions:Sin energia
+2022-04-28 07:30:48,829:User_settings:Maquina: jetson
+2022-04-28 07:30:48,840:User_settings:Calibration device port: /dev/ttyACM0
+2022-04-28 07:30:48,844:User_settings:Grlb device port: /dev/ttyACM2
+2022-04-28 07:30:48,845:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-04-28 07:30:55,675:main:Puertos listos, comenzando programa
+2022-04-28 07:30:56,747:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-04-28 07:30:56,747:main:----------------------------Process started--------------------------
+2022-04-28 07:35:13,963:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-2807_30_56
+2022-04-28 07:35:13,964:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-04-28 08:05:13,964:main_functions:Placa 1 decantacion completa
+2022-04-28 08:05:13,964:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-2807_30_56
+2022-04-28 11:26:27,366:main_functions:Folder :/media/sams4/UNTITLED/2022-04-2807_30_56 Complete
+2022-04-28 11:26:37,490:main:Escaneada la muestra numero:0
+2022-04-28 11:31:54,952:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-2811_26_37
+2022-04-28 11:31:54,953:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-04-28 12:01:54,953:main_functions:Placa 1 decantacion completa
+2022-04-28 12:01:54,953:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-2811_26_37
+2022-04-28 15:23:08,953:main_functions:Folder :/media/sams4/UNTITLED/2022-04-2811_26_37 Complete
+2022-04-28 15:23:19,116:main:Escaneada la muestra numero:1
+2022-04-28 15:23:19,874:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1507_30_40
+2022-04-28 15:30:01,982:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-2815_23_19
+2022-04-28 15:30:01,983:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-04-28 16:00:01,983:main_functions:Placa 1 decantacion completa
+2022-04-28 16:00:01,991:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-2815_23_19
+2022-04-28 19:21:26,962:main_functions:Folder :/media/sams4/UNTITLED/2022-04-2815_23_19 Complete
+2022-04-28 19:21:37,084:main:Escaneada la muestra numero:2
+2022-04-28 19:21:47,480:main_functions:Sin energia
+2022-04-28 19:26:52,837:main_functions:Sin energia
+2022-04-28 19:31:58,113:main_functions:Sin energia
+2022-04-28 19:37:03,464:main_functions:Sin energia
+2022-04-28 19:42:08,856:main_functions:Sin energia
+2022-04-28 19:47:14,243:main_functions:Sin energia
+2022-04-28 19:52:19,628:main_functions:Sin energia
+2022-04-28 19:57:24,942:main_functions:Sin energia
+2022-04-28 20:02:30,344:main_functions:Sin energia
+2022-04-28 20:07:35,716:main_functions:Sin energia
+2022-04-28 20:12:41,034:main_functions:Sin energia
+2022-04-28 20:17:46,379:main_functions:Sin energia
+2022-04-28 20:22:51,721:main_functions:Sin energia
+2022-04-28 20:27:57,028:main_functions:Sin energia
+2022-04-28 20:33:02,331:main_functions:Sin energia
+2022-04-28 20:38:07,724:main_functions:Sin energia
+2022-04-28 20:43:13,096:main_functions:Sin energia
+2022-04-28 20:48:18,492:main_functions:Sin energia
+2022-04-28 20:53:23,893:main_functions:Sin energia
+2022-04-29 07:30:59,283:User_settings:Maquina: jetson
+2022-04-29 07:30:59,296:User_settings:Calibration device port: /dev/ttyACM0
+2022-04-29 07:30:59,299:User_settings:Grlb device port: /dev/ttyACM2
+2022-04-29 07:30:59,302:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-04-29 07:31:06,236:main:Puertos listos, comenzando programa
+2022-04-29 07:31:07,319:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-04-29 07:31:07,320:main:----------------------------Process started--------------------------
+2022-04-29 07:35:24,546:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-2907_31_07
+2022-04-29 07:35:24,547:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-04-29 08:05:24,547:main_functions:Placa 1 decantacion completa
+2022-04-29 08:05:24,547:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-2907_31_07
+2022-04-29 10:03:52,624:arduino_manager:Problema al enviar comando: b'G4 P0.1\n', antes se enviava nuevamente, esa parte esta comentada
+2022-04-29 10:03:52,820:arduino_manager:Problema al enviar comando: b'\n', antes se enviava nuevamente, esa parte esta comentada
+2022-04-29 10:03:52,949:arduino_manager:Problema al enviar comando: b'm\n', antes se enviava nuevamente, esa parte esta comentada
+2022-04-29 10:03:52,950:main:Escaneada la muestra numero:0
+2022-04-29 10:03:53,095:main:Interrumpido manualmente
+2022-04-29 11:22:08,650:User_settings:Maquina: jetson
+2022-04-29 11:22:08,662:User_settings:Calibration device port: /dev/ttyACM0
+2022-04-29 11:22:08,666:User_settings:Grlb device port: /dev/ttyACM2
+2022-04-29 11:22:08,667:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-04-29 11:22:11,419:main:Puertos listos, comenzando programa
+2022-04-29 11:22:12,209:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-04-29 11:22:12,210:main:----------------------------Process started--------------------------
+2022-04-29 11:22:13,093:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1511_16_41
+2022-04-29 11:26:29,924:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-2911_22_13
+2022-04-29 11:26:29,925:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-04-29 11:56:29,925:main_functions:Placa 1 decantacion completa
+2022-04-29 11:56:29,925:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-2911_22_13
+2022-04-29 12:30:38,861:main_functions:Folder :/media/sams4/UNTITLED/2022-04-2911_22_13 Complete
+2022-04-29 12:30:48,980:main:Escaneada la muestra numero:0
+2022-04-29 12:30:49,449:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1512_16_18
+2022-04-29 12:36:06,842:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-2912_30_49
+2022-04-29 12:36:06,845:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-04-29 13:06:06,845:main_functions:Placa 1 decantacion completa
+2022-04-29 13:06:06,845:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-2912_30_49
+2022-04-29 16:27:53,568:main_functions:Folder :/media/sams4/UNTITLED/2022-04-2912_30_49 Complete
+2022-04-29 16:28:03,688:main:Escaneada la muestra numero:1
+2022-04-29 16:28:04,458:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1516_04_29
+2022-04-29 16:34:46,497:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-2916_28_04
+2022-04-29 16:34:46,498:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-04-29 17:04:46,498:main_functions:Placa 1 decantacion completa
+2022-04-29 17:04:46,504:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-2916_28_04
+2022-04-30 07:30:34,250:User_settings:Maquina: jetson
+2022-04-30 07:30:34,262:User_settings:Calibration device port: /dev/ttyACM0
+2022-04-30 07:30:34,266:User_settings:Grlb device port: /dev/ttyACM2
+2022-04-30 07:30:34,267:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-04-30 07:30:41,274:main:Puertos listos, comenzando programa
+2022-04-30 07:30:42,160:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-04-30 07:30:42,161:main:----------------------------Process started--------------------------
+2022-04-30 07:34:59,381:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-3007_30_42
+2022-04-30 07:34:59,381:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-04-30 08:04:59,381:main_functions:Placa 1 decantacion completa
+2022-04-30 08:04:59,382:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-3007_30_42
+2022-04-30 11:26:34,003:main_functions:Folder :/media/sams4/UNTITLED/2022-04-3007_30_42 Complete
+2022-04-30 11:26:44,172:main:Escaneada la muestra numero:0
+2022-04-30 11:32:01,623:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-3011_26_44
+2022-04-30 11:32:01,623:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-04-30 12:02:01,623:main_functions:Placa 1 decantacion completa
+2022-04-30 12:02:01,627:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-3011_26_44
+2022-04-30 15:23:50,055:main_functions:Folder :/media/sams4/UNTITLED/2022-04-3011_26_44 Complete
+2022-04-30 15:24:00,218:main:Escaneada la muestra numero:1
+2022-04-30 15:30:42,427:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-04-3015_24_00
+2022-04-30 15:30:42,431:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-04-30 16:00:42,430:main_functions:Placa 1 decantacion completa
+2022-04-30 16:00:42,430:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-04-3015_24_00
+2022-04-30 19:22:20,115:main_functions:Folder :/media/sams4/UNTITLED/2022-04-3015_24_00 Complete
+2022-04-30 19:22:30,282:main:Escaneada la muestra numero:2
+2022-04-30 19:22:40,715:main_functions:Sin energia
+2022-04-30 19:27:46,047:main_functions:Sin energia
+2022-04-30 19:32:51,425:main_functions:Sin energia
+2022-04-30 19:37:56,784:main_functions:Sin energia
+2022-04-30 19:43:02,091:main_functions:Sin energia
+2022-04-30 19:48:07,398:main_functions:Sin energia
+2022-05-01 07:30:07,519:User_settings:Maquina: jetson
+2022-05-01 07:30:07,532:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-01 07:30:07,535:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-01 07:30:07,538:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-01 07:30:14,668:main:Puertos listos, comenzando programa
+2022-05-01 07:30:15,572:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-01 07:30:15,573:main:----------------------------Process started--------------------------
+2022-05-01 07:30:16,659:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1607_31_17
+2022-05-01 07:34:33,529:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0107_30_16
+2022-05-01 07:34:33,530:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-01 08:04:33,530:main_functions:Placa 1 decantacion completa
+2022-05-01 08:04:33,535:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0107_30_16
+2022-05-01 08:38:40,818:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0107_30_16 Complete
+2022-05-01 08:38:50,979:main:Escaneada la muestra numero:0
+2022-05-01 08:44:08,407:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0108_38_51
+2022-05-01 08:44:08,407:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-01 09:14:08,408:main_functions:Placa 1 decantacion completa
+2022-05-01 09:14:08,414:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0108_38_51
+2022-05-01 12:35:36,477:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0108_38_51 Complete
+2022-05-01 12:35:46,648:main:Escaneada la muestra numero:1
+2022-05-01 12:35:47,393:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1611_17_18
+2022-05-01 12:42:29,484:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0112_35_47
+2022-05-01 12:42:29,484:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-01 13:12:29,485:main_functions:Placa 1 decantacion completa
+2022-05-01 13:12:29,491:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0112_35_47
+2022-05-01 13:46:37,872:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0112_35_47 Complete
+2022-05-01 13:46:48,029:main:Escaneada la muestra numero:2
+2022-05-01 13:46:48,786:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1612_16_55
+2022-05-01 13:51:04,554:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0113_46_48
+2022-05-01 13:51:04,555:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-01 14:21:04,555:main_functions:Placa 1 decantacion completa
+2022-05-01 14:21:04,561:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0113_46_48
+2022-05-01 17:42:20,180:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0113_46_48 Complete
+2022-05-01 17:42:30,344:main:Escaneada la muestra numero:3
+2022-05-01 17:42:31,058:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1616_05_03
+2022-05-01 17:42:41,400:main_functions:Sin energia
+2022-05-01 17:47:46,743:main_functions:Sin energia
+2022-05-01 17:52:52,092:main_functions:Sin energia
+2022-05-01 17:57:57,483:main_functions:Sin energia
+2022-05-01 18:03:02,828:main_functions:Sin energia
+2022-05-01 18:08:08,212:main_functions:Sin energia
+2022-05-01 18:13:13,535:main_functions:Sin energia
+2022-05-01 18:18:18,856:main_functions:Sin energia
+2022-05-01 18:23:24,203:main_functions:Sin energia
+2022-05-01 18:28:29,564:main_functions:Sin energia
+2022-05-01 18:33:34,865:main_functions:Sin energia
+2022-05-01 18:38:40,167:main_functions:Sin energia
+2022-05-01 18:43:45,521:main_functions:Sin energia
+2022-05-01 18:48:50,855:main_functions:Sin energia
+2022-05-01 18:53:56,203:main_functions:Sin energia
+2022-05-01 18:59:01,586:main_functions:Sin energia
+2022-05-01 19:04:06,935:main_functions:Sin energia
+2022-05-01 19:09:12,257:main_functions:Sin energia
+2022-05-01 19:14:17,652:main_functions:Sin energia
+2022-05-01 19:19:23,057:main_functions:Sin energia
+2022-05-01 19:24:28,363:main_functions:Sin energia
+2022-05-01 19:29:33,688:main_functions:Sin energia
+2022-05-01 19:34:39,091:main_functions:Sin energia
+2022-05-01 19:39:44,399:main_functions:Sin energia
+2022-05-01 19:44:49,720:main_functions:Sin energia
+2022-05-01 19:49:55,058:main_functions:Sin energia
+2022-05-01 19:55:00,356:main_functions:Sin energia
+2022-05-01 20:00:05,701:main_functions:Sin energia
+2022-05-01 20:05:11,009:main_functions:Sin energia
+2022-05-01 20:10:16,364:main_functions:Sin energia
+2022-05-02 07:30:42,910:User_settings:Maquina: jetson
+2022-05-02 07:30:42,926:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-02 07:30:42,930:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-02 07:30:42,931:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-02 07:30:50,258:main:Puertos listos, comenzando programa
+2022-05-02 07:30:51,232:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-02 07:30:51,233:main:----------------------------Process started--------------------------
+2022-05-02 07:35:08,487:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0207_30_51
+2022-05-02 07:35:08,488:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-02 08:05:08,488:main_functions:Placa 1 decantacion completa
+2022-05-02 08:05:08,488:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0207_30_51
+2022-05-02 08:39:18,447:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0207_30_51 Complete
+2022-05-02 08:39:28,566:main:Escaneada la muestra numero:0
+2022-05-02 08:44:45,984:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0208_39_28
+2022-05-02 08:44:45,984:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-02 09:14:45,984:main_functions:Placa 1 decantacion completa
+2022-05-02 09:14:45,985:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0208_39_28
+2022-05-02 12:36:01,748:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0208_39_28 Complete
+2022-05-02 12:36:11,870:main:Escaneada la muestra numero:1
+2022-05-02 12:36:12,711:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1707_31_26
+2022-05-02 12:42:54,764:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0212_36_12
+2022-05-02 12:42:54,764:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-02 13:12:54,764:main_functions:Placa 1 decantacion completa
+2022-05-02 13:12:54,781:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0212_36_12
+2022-05-02 13:47:06,931:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0212_36_12 Complete
+2022-05-02 13:47:17,087:main:Escaneada la muestra numero:2
+2022-05-02 13:47:17,934:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1711_17_27
+2022-05-02 13:47:28,241:main_functions:Sin energia
+2022-05-02 13:52:33,582:main_functions:Sin energia
+2022-05-02 13:57:38,845:main_functions:Se reconecto la energia
+2022-05-02 14:01:44,286:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0213_47_17
+2022-05-02 14:01:44,297:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-02 14:31:44,297:main_functions:Placa 1 decantacion completa
+2022-05-02 14:31:44,297:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0213_47_17
+2022-05-02 17:53:00,331:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0213_47_17 Complete
+2022-05-02 17:53:10,446:main:Escaneada la muestra numero:3
+2022-05-02 17:53:11,230:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1712_17_05
+2022-05-02 17:53:21,574:main_functions:Sin energia
+2022-05-02 17:58:26,934:main_functions:Sin energia
+2022-05-02 18:03:32,285:main_functions:Sin energia
+2022-05-02 18:08:37,616:main_functions:Sin energia
+2022-05-02 18:13:42,937:main_functions:Sin energia
+2022-05-02 18:18:48,241:main_functions:Sin energia
+2022-05-02 18:23:53,601:main_functions:Sin energia
+2022-05-02 18:28:58,990:main_functions:Sin energia
+2022-05-02 18:34:04,391:main_functions:Sin energia
+2022-05-02 18:39:09,784:main_functions:Sin energia
+2022-05-02 18:44:15,178:main_functions:Sin energia
+2022-05-02 18:49:20,565:main_functions:Sin energia
+2022-05-02 18:54:25,951:main_functions:Sin energia
+2022-05-02 18:59:31,343:main_functions:Sin energia
+2022-05-02 19:04:36,712:main_functions:Sin energia
+2022-05-02 19:09:42,086:main_functions:Sin energia
+2022-05-02 19:14:47,414:main_functions:Sin energia
+2022-05-02 19:19:52,776:main_functions:Sin energia
+2022-05-02 19:24:58,160:main_functions:Sin energia
+2022-05-02 19:30:03,572:main_functions:Sin energia
+2022-05-02 19:35:08,941:main_functions:Sin energia
+2022-05-02 19:40:14,284:main_functions:Sin energia
+2022-05-02 19:45:19,659:main_functions:Sin energia
+2022-05-02 19:50:25,053:main_functions:Sin energia
+2022-05-02 19:55:30,439:main_functions:Sin energia
+2022-05-02 20:00:35,799:main_functions:Sin energia
+2022-05-03 07:30:56,406:User_settings:Maquina: jetson
+2022-05-03 07:30:56,418:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-03 07:30:56,421:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-03 07:30:56,423:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-03 07:30:59,330:main:Puertos listos, comenzando programa
+2022-05-03 07:31:00,190:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-03 07:31:00,190:main:----------------------------Process started--------------------------
+2022-05-03 07:35:17,413:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0307_31_00
+2022-05-03 07:35:17,414:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-03 08:05:17,414:main_functions:Placa 1 decantacion completa
+2022-05-03 08:05:17,414:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0307_31_00
+2022-05-03 08:39:24,125:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0307_31_00 Complete
+2022-05-03 08:39:34,279:main:Escaneada la muestra numero:0
+2022-05-03 08:39:34,773:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1716_05_15
+2022-05-03 08:44:52,206:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0308_39_34
+2022-05-03 08:44:52,210:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-03 09:14:52,210:main_functions:Placa 1 decantacion completa
+2022-05-03 09:14:52,215:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0308_39_34
+2022-05-03 12:36:10,211:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0308_39_34 Complete
+2022-05-03 12:36:20,331:main:Escaneada la muestra numero:1
+2022-05-03 12:43:02,513:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0312_36_20
+2022-05-03 12:43:02,513:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-03 13:13:02,514:main_functions:Placa 1 decantacion completa
+2022-05-03 13:13:02,518:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0312_36_20
+2022-05-03 13:47:13,217:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0312_36_20 Complete
+2022-05-03 13:47:23,374:main:Escaneada la muestra numero:2
+2022-05-03 13:47:24,198:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1807_31_00
+2022-05-03 13:47:34,508:main_functions:Sin energia
+2022-05-03 13:52:39,859:main_functions:Se reconecto la energia
+2022-05-03 13:56:45,328:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0313_47_24
+2022-05-03 13:56:45,328:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-03 14:26:45,328:main_functions:Placa 1 decantacion completa
+2022-05-03 14:26:45,334:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0313_47_24
+2022-05-03 17:47:58,493:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0313_47_24 Complete
+2022-05-03 17:48:08,613:main:Escaneada la muestra numero:3
+2022-05-03 17:48:09,497:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1810_41_52
+2022-05-03 17:48:19,808:main_functions:Sin energia
+2022-05-03 17:53:25,158:main_functions:Sin energia
+2022-05-03 17:58:30,489:main_functions:Sin energia
+2022-05-03 18:03:35,779:main_functions:Sin energia
+2022-05-03 18:08:41,177:main_functions:Sin energia
+2022-05-03 18:13:46,483:main_functions:Sin energia
+2022-05-03 18:18:51,802:main_functions:Sin energia
+2022-05-03 18:23:57,194:main_functions:Sin energia
+2022-05-03 18:29:02,588:main_functions:Sin energia
+2022-05-03 18:34:07,860:main_functions:Sin energia
+2022-05-03 18:39:13,253:main_functions:Sin energia
+2022-05-03 18:44:18,555:main_functions:Sin energia
+2022-05-03 18:49:23,857:main_functions:Sin energia
+2022-05-03 18:54:29,261:main_functions:Sin energia
+2022-05-03 18:59:34,632:main_functions:Sin energia
+2022-05-03 19:04:39,978:main_functions:Sin energia
+2022-05-03 19:09:45,353:main_functions:Sin energia
+2022-05-03 19:14:50,747:main_functions:Sin energia
+2022-05-03 19:19:56,140:main_functions:Sin energia
+2022-05-03 19:25:01,533:main_functions:Sin energia
+2022-05-03 19:30:06,841:main_functions:Sin energia
+2022-05-03 19:35:12,153:main_functions:Sin energia
+2022-05-03 19:40:17,549:main_functions:Sin energia
+2022-05-03 19:45:22,912:main_functions:Sin energia
+2022-05-03 19:50:28,307:main_functions:Sin energia
+2022-05-03 19:55:33,680:main_functions:Sin energia
+2022-05-03 20:00:39,079:main_functions:Sin energia
+2022-05-04 07:30:38,200:User_settings:Maquina: jetson
+2022-05-04 07:30:38,214:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-04 07:30:38,217:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-04 07:30:38,219:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-04 07:30:41,017:main:Puertos listos, comenzando programa
+2022-05-04 07:30:47,229:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-04 07:30:47,230:main:----------------------------Process started--------------------------
+2022-05-04 07:35:04,505:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0407_30_47
+2022-05-04 07:35:04,508:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-04 08:05:04,507:main_functions:Placa 1 decantacion completa
+2022-05-04 08:05:04,508:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0407_30_47
+2022-05-04 08:39:15,699:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0407_30_47 Complete
+2022-05-04 08:39:25,863:main:Escaneada la muestra numero:0
+2022-05-04 08:39:26,381:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1811_40_47
+2022-05-04 08:44:43,789:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0408_39_26
+2022-05-04 08:44:43,789:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-04 09:14:43,789:main_functions:Placa 1 decantacion completa
+2022-05-04 09:14:43,790:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0408_39_26
+2022-05-04 12:35:55,811:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0408_39_26 Complete
+2022-05-04 12:36:05,937:main:Escaneada la muestra numero:1
+2022-05-04 12:36:06,811:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1815_27_34
+2022-05-04 12:42:48,928:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0412_36_06
+2022-05-04 12:42:48,929:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-04 13:12:48,929:main_functions:Placa 1 decantacion completa
+2022-05-04 13:12:48,935:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0412_36_06
+2022-05-04 13:46:57,447:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0412_36_06 Complete
+2022-05-04 13:47:07,565:main:Escaneada la muestra numero:2
+2022-05-04 13:51:23,373:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0413_47_07
+2022-05-04 13:51:23,373:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-04 14:21:23,374:main_functions:Placa 1 decantacion completa
+2022-05-04 14:21:23,379:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0413_47_07
+2022-05-04 17:42:45,795:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0413_47_07 Complete
+2022-05-04 17:42:55,922:main:Escaneada la muestra numero:3
+2022-05-04 17:42:56,741:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-1907_30_32
+2022-05-04 17:43:07,057:main_functions:Sin energia
+2022-05-04 17:48:12,311:main_functions:Sin energia
+2022-05-04 17:53:17,568:main_functions:Sin energia
+2022-05-04 17:58:22,904:main_functions:Sin energia
+2022-05-04 18:03:28,262:main_functions:Sin energia
+2022-05-04 18:08:33,553:main_functions:Sin energia
+2022-05-04 18:13:38,936:main_functions:Sin energia
+2022-05-04 18:18:44,324:main_functions:Sin energia
+2022-05-04 18:23:49,691:main_functions:Sin energia
+2022-05-04 18:28:55,091:main_functions:Sin energia
+2022-05-04 18:34:00,475:main_functions:Sin energia
+2022-05-04 18:39:05,833:main_functions:Sin energia
+2022-05-04 18:44:11,215:main_functions:Sin energia
+2022-05-04 18:49:16,586:main_functions:Sin energia
+2022-05-04 18:54:21,985:main_functions:Sin energia
+2022-05-04 18:59:27,276:main_functions:Sin energia
+2022-05-04 19:04:32,584:main_functions:Sin energia
+2022-05-04 19:09:37,954:main_functions:Sin energia
+2022-05-04 19:14:43,343:main_functions:Sin energia
+2022-05-04 19:19:48,699:main_functions:Sin energia
+2022-05-04 19:24:54,084:main_functions:Sin energia
+2022-05-04 19:29:59,482:main_functions:Sin energia
+2022-05-04 19:35:04,853:main_functions:Sin energia
+2022-05-04 19:40:10,175:main_functions:Sin energia
+2022-05-04 19:45:15,560:main_functions:Sin energia
+2022-05-04 19:50:20,887:main_functions:Sin energia
+2022-05-04 19:55:26,209:main_functions:Sin energia
+2022-05-04 20:00:31,572:main_functions:Sin energia
+2022-05-05 07:30:04,021:User_settings:Maquina: jetson
+2022-05-05 07:30:04,033:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-05 07:30:04,036:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-05 07:30:04,037:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-05 07:30:07,027:main:Puertos listos, comenzando programa
+2022-05-05 07:30:07,920:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-05 07:30:07,921:main:----------------------------Process started--------------------------
+2022-05-05 07:34:25,171:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0507_30_07
+2022-05-05 07:34:25,172:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-05 08:04:25,172:main_functions:Placa 1 decantacion completa
+2022-05-05 08:04:25,172:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0507_30_07
+2022-05-05 11:25:38,857:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0507_30_07 Complete
+2022-05-05 11:25:48,977:main:Escaneada la muestra numero:0
+2022-05-05 11:25:49,708:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-2118_01_01
+2022-05-05 11:31:07,134:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0511_25_49
+2022-05-05 11:31:07,134:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-05 12:01:07,134:main_functions:Placa 1 decantacion completa
+2022-05-05 12:01:07,142:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0511_25_49
+2022-05-05 12:35:18,153:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0511_25_49 Complete
+2022-05-05 12:35:28,317:main:Escaneada la muestra numero:1
+2022-05-05 12:35:29,193:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-2118_59_20
+2022-05-05 12:35:29,630:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-2218_01_02
+2022-05-05 12:35:30,062:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-2318_01_01
+2022-05-05 12:42:12,145:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0512_35_30
+2022-05-05 12:42:12,146:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-05 13:12:12,146:main_functions:Placa 1 decantacion completa
+2022-05-05 13:12:12,153:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0512_35_30
+2022-05-05 14:56:04,999:arduino_manager:Problema al enviar comando: b'G90 G1 X25 Y5 F450\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-05 14:56:05,294:arduino_manager:Problema al enviar comando: b'\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-05 14:56:06,179:arduino_manager:Problema al enviar comando: b'm\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-05 14:56:06,179:main:Escaneada la muestra numero:2
+2022-05-05 14:56:06,325:arduino_manager:Problema al enviar comando: b'\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-05 14:56:06,473:arduino_manager:Problema al enviar comando: b'e\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-07 07:30:49,802:User_settings:Maquina: jetson
+2022-05-07 07:30:49,814:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-07 07:30:49,816:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-07 07:30:49,817:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-07 07:30:52,317:main:Puertos listos, comenzando programa
+2022-05-07 07:30:57,390:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-07 07:30:57,391:main:----------------------------Process started--------------------------
+2022-05-07 07:33:59,483:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0707_30_57
+2022-05-07 07:33:59,483:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-07 08:03:59,484:main_functions:Placa 1 decantacion completa
+2022-05-07 08:03:59,484:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0707_30_57
+2022-05-07 08:50:58,970:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0707_30_57 Complete
+2022-05-07 08:51:09,171:main:Escaneada la muestra numero:0
+2022-05-07 08:51:09,703:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-2418_01_01
+2022-05-07 08:55:12,030:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0708_51_09
+2022-05-07 08:55:12,030:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-07 09:25:12,030:main_functions:Placa 1 decantacion completa
+2022-05-07 09:25:12,031:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0708_51_09
+2022-05-07 12:59:23,707:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0708_51_09 Complete
+2022-05-07 12:59:33,925:main:Escaneada la muestra numero:1
+2022-05-07 13:05:00,925:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0712_59_33
+2022-05-07 13:05:00,925:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-07 13:35:00,925:main_functions:Placa 1 decantacion completa
+2022-05-07 13:35:00,926:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0712_59_33
+2022-05-07 14:21:44,102:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0712_59_33 Complete
+2022-05-07 14:21:54,221:main:Escaneada la muestra numero:2
+2022-05-07 14:24:54,908:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0714_21_54
+2022-05-07 14:24:54,909:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-07 14:54:54,909:main_functions:Placa 1 decantacion completa
+2022-05-07 14:54:54,909:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0714_21_54
+2022-05-07 14:58:44,091:arduino_manager:Problema al enviar comando: b'G90 G1 X0 Y14 F450\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-07 14:58:45,212:arduino_manager:Problema al enviar comando: b'\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-07 14:58:45,246:arduino_manager:Problema al enviar comando: b'm\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-07 14:58:45,250:main:Escaneada la muestra numero:3
+2022-05-07 14:58:46,971:arduino_manager:Problema al enviar comando: b'\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-07 14:58:47,015:arduino_manager:Problema al enviar comando: b'e\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-07 15:04:14,304:User_settings:Maquina: jetson
+2022-05-07 15:04:14,317:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-07 15:04:14,321:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-07 15:04:14,322:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-07 15:04:16,685:main:Puertos listos, comenzando programa
+2022-05-07 15:04:17,310:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-07 15:04:17,311:main:----------------------------Process started--------------------------
+2022-05-07 15:07:19,518:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0715_04_17
+2022-05-07 15:07:19,528:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-07 15:08:27,043:main:Interrumpido manualmente
+2022-05-08 07:30:31,990:User_settings:Maquina: jetson
+2022-05-08 07:30:32,003:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-08 07:30:32,005:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-08 07:30:32,007:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-08 07:30:38,589:main:Puertos listos, comenzando programa
+2022-05-08 07:30:39,389:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-08 07:30:39,389:main:----------------------------Process started--------------------------
+2022-05-08 07:34:31,592:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0807_30_39
+2022-05-08 07:34:31,593:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-08 08:04:31,593:main_functions:Placa 1 decantacion completa
+2022-05-08 08:04:31,593:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0807_30_39
+2022-05-08 08:51:16,913:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0807_30_39 Complete
+2022-05-08 08:51:27,029:main:Escaneada la muestra numero:0
+2022-05-08 08:51:27,485:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-2418_59_19
+2022-05-08 08:51:27,929:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-2618_01_01
+2022-05-08 08:56:20,260:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0808_51_27
+2022-05-08 08:56:20,262:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-08 09:26:20,262:main_functions:Placa 1 decantacion completa
+2022-05-08 09:26:20,263:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0808_51_27
+2022-05-08 13:00:34,310:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0808_51_27 Complete
+2022-05-08 13:00:44,457:main:Escaneada la muestra numero:1
+2022-05-08 13:07:01,535:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0813_00_44
+2022-05-08 13:07:01,538:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-08 13:37:01,538:main_functions:Placa 1 decantacion completa
+2022-05-08 13:37:01,538:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0813_00_44
+2022-05-08 14:23:36,455:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0813_00_44 Complete
+2022-05-08 14:23:46,655:main:Escaneada la muestra numero:2
+2022-05-08 14:23:47,217:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-2711_29_02
+2022-05-08 14:27:37,963:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0814_23_47
+2022-05-08 14:27:37,964:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-08 14:57:37,964:main_functions:Placa 1 decantacion completa
+2022-05-08 14:57:37,964:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0814_23_47
+2022-05-08 18:31:56,509:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0814_23_47 Complete
+2022-05-08 18:32:06,631:main:Escaneada la muestra numero:3
+2022-05-08 18:32:16,997:main_functions:Sin energia
+2022-05-08 18:37:22,269:main_functions:Sin energia
+2022-05-08 18:42:27,628:main_functions:Sin energia
+2022-05-08 18:47:33,021:main_functions:Sin energia
+2022-05-08 18:52:38,330:main_functions:Sin energia
+2022-05-08 18:57:43,669:main_functions:Sin energia
+2022-05-08 19:02:49,073:main_functions:Sin energia
+2022-05-08 19:07:54,415:main_functions:Sin energia
+2022-05-08 19:12:59,821:main_functions:Sin energia
+2022-05-08 19:18:05,211:main_functions:Sin energia
+2022-05-08 19:23:10,580:main_functions:Sin energia
+2022-05-08 19:28:15,971:main_functions:Sin energia
+2022-05-08 19:33:21,321:main_functions:Sin energia
+2022-05-08 19:38:26,694:main_functions:Sin energia
+2022-05-09 07:29:57,369:User_settings:Maquina: jetson
+2022-05-09 07:29:57,382:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-09 07:29:57,384:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-09 07:29:57,386:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-09 07:30:00,103:main:Puertos listos, comenzando programa
+2022-05-09 07:30:00,828:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-09 07:30:00,829:main:----------------------------Process started--------------------------
+2022-05-09 07:33:53,049:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0907_30_00
+2022-05-09 07:33:53,049:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-09 08:03:53,049:main_functions:Placa 1 decantacion completa
+2022-05-09 08:03:53,049:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0907_30_00
+2022-05-09 10:37:34,739:arduino_manager:Problema al enviar comando: b'$x\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-09 10:38:01,968:User_settings:Maquina: jetson
+2022-05-09 10:38:01,973:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-09 10:38:01,976:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-09 10:38:01,977:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-09 10:38:04,622:main:Puertos listos, comenzando programa
+2022-05-09 10:38:05,359:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-09 10:38:05,360:main:----------------------------Process started--------------------------
+2022-05-09 10:41:57,539:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0910_38_05
+2022-05-09 10:41:57,541:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-09 11:11:57,541:main_functions:Placa 1 decantacion completa
+2022-05-09 11:11:57,542:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0910_38_05
+2022-05-09 11:58:58,572:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0910_38_05 Complete
+2022-05-09 11:59:08,692:main:Escaneada la muestra numero:0
+2022-05-09 11:59:09,310:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-2715_24_54
+2022-05-09 12:04:01,658:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0911_59_09
+2022-05-09 12:04:01,658:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-09 12:34:01,658:main_functions:Placa 1 decantacion completa
+2022-05-09 12:34:01,659:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0911_59_09
+2022-05-09 16:08:14,862:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0911_59_09 Complete
+2022-05-09 16:08:25,023:main:Escaneada la muestra numero:1
+2022-05-09 16:14:42,061:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-0916_08_25
+2022-05-09 16:14:42,061:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-09 16:44:42,061:main_functions:Placa 1 decantacion completa
+2022-05-09 16:44:42,062:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-0916_08_25
+2022-05-09 17:31:29,676:main_functions:Folder :/media/sams4/UNTITLED/2022-05-0916_08_25 Complete
+2022-05-09 17:31:39,797:main:Escaneada la muestra numero:2
+2022-05-09 17:31:40,438:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-2911_22_13
+2022-05-09 17:31:50,749:main_functions:Sin energia
+2022-05-09 17:36:56,089:main_functions:Sin energia
+2022-05-09 17:42:01,399:main_functions:Sin energia
+2022-05-09 17:47:06,697:main_functions:Sin energia
+2022-05-09 17:52:12,035:main_functions:Sin energia
+2022-05-09 17:57:17,432:main_functions:Sin energia
+2022-05-09 18:02:22,745:main_functions:Sin energia
+2022-05-09 18:07:28,093:main_functions:Sin energia
+2022-05-09 18:12:33,410:main_functions:Sin energia
+2022-05-09 18:17:38,773:main_functions:Sin energia
+2022-05-09 18:22:44,173:main_functions:Sin energia
+2022-05-09 18:27:49,577:main_functions:Sin energia
+2022-05-09 18:32:54,977:main_functions:Sin energia
+2022-05-09 18:38:00,375:main_functions:Sin energia
+2022-05-09 18:43:05,723:main_functions:Sin energia
+2022-05-09 18:48:11,130:main_functions:Sin energia
+2022-05-09 18:53:16,478:main_functions:Sin energia
+2022-05-09 18:58:21,816:main_functions:Sin energia
+2022-05-09 19:03:27,110:main_functions:Sin energia
+2022-05-09 19:08:32,468:main_functions:Sin energia
+2022-05-09 19:13:37,774:main_functions:Sin energia
+2022-05-09 19:18:43,088:main_functions:Sin energia
+2022-05-09 19:23:48,457:main_functions:Sin energia
+2022-05-09 19:28:53,753:main_functions:Sin energia
+2022-05-09 19:33:59,147:main_functions:Sin energia
+2022-05-09 19:39:04,545:main_functions:Sin energia
+2022-05-10 07:30:31,078:User_settings:Maquina: jetson
+2022-05-10 07:30:31,090:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-10 07:30:31,094:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-10 07:30:31,096:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-10 07:30:33,582:main:Puertos listos, comenzando programa
+2022-05-10 07:30:34,396:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-10 07:30:34,397:main:----------------------------Process started--------------------------
+2022-05-10 07:34:26,624:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1007_30_34
+2022-05-10 07:34:26,625:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-10 08:04:26,625:main_functions:Placa 1 decantacion completa
+2022-05-10 08:04:26,625:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1007_30_34
+2022-05-10 11:38:36,957:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1007_30_34 Complete
+2022-05-10 11:38:47,075:main:Escaneada la muestra numero:0
+2022-05-10 11:43:39,486:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1011_38_47
+2022-05-10 11:43:39,486:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-10 12:13:39,486:main_functions:Placa 1 decantacion completa
+2022-05-10 12:13:39,486:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1011_38_47
+2022-05-10 13:00:27,624:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1011_38_47 Complete
+2022-05-10 13:00:37,742:main:Escaneada la muestra numero:1
+2022-05-10 13:06:54,754:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1013_00_37
+2022-05-10 13:06:54,754:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-10 13:36:54,754:main_functions:Placa 1 decantacion completa
+2022-05-10 13:36:54,755:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1013_00_37
+2022-05-10 17:11:09,555:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1013_00_37 Complete
+2022-05-10 17:11:19,694:main:Escaneada la muestra numero:2
+2022-05-10 17:11:30,042:main_functions:Sin energia
+2022-05-10 17:16:35,310:main_functions:Sin energia
+2022-05-10 17:21:40,614:main_functions:Sin energia
+2022-05-10 17:26:45,938:main_functions:Sin energia
+2022-05-10 17:31:51,305:main_functions:Sin energia
+2022-05-10 17:36:56,683:main_functions:Sin energia
+2022-05-10 17:42:02,059:main_functions:Sin energia
+2022-05-10 17:47:07,434:main_functions:Sin energia
+2022-05-10 17:52:12,813:main_functions:Sin energia
+2022-05-10 17:57:18,178:main_functions:Sin energia
+2022-05-10 18:02:18,267:arduino_manager:Problema al enviar comando: b'e\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-11 07:30:43,686:User_settings:Maquina: jetson
+2022-05-11 07:30:43,700:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-11 07:30:43,703:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-11 07:30:43,705:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-11 07:30:46,100:main:Puertos listos, comenzando programa
+2022-05-11 07:30:46,838:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-11 07:30:46,838:main:----------------------------Process started--------------------------
+2022-05-11 07:34:39,041:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1107_30_46
+2022-05-11 07:34:39,043:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-11 08:04:39,043:main_functions:Placa 1 decantacion completa
+2022-05-11 08:04:39,044:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1107_30_46
+2022-05-11 08:51:20,759:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1107_30_46 Complete
+2022-05-11 08:51:30,877:main:Escaneada la muestra numero:0
+2022-05-11 08:51:31,489:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-2912_30_49
+2022-05-11 08:56:23,841:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1108_51_31
+2022-05-11 08:56:23,841:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-11 09:26:23,841:main_functions:Placa 1 decantacion completa
+2022-05-11 09:26:23,841:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1108_51_31
+2022-05-11 13:00:30,997:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1108_51_31 Complete
+2022-05-11 13:00:41,140:main:Escaneada la muestra numero:1
+2022-05-11 13:06:58,168:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1113_00_41
+2022-05-11 13:06:58,168:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-11 13:36:58,168:main_functions:Placa 1 decantacion completa
+2022-05-11 13:36:58,169:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1113_00_41
+2022-05-11 14:23:39,319:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1113_00_41 Complete
+2022-05-11 14:23:49,481:main:Escaneada la muestra numero:2
+2022-05-11 14:27:40,240:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1114_23_49
+2022-05-11 14:27:40,240:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-11 14:57:40,240:main_functions:Placa 1 decantacion completa
+2022-05-11 14:57:40,241:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1114_23_49
+2022-05-11 18:32:13,524:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1114_23_49 Complete
+2022-05-11 18:32:13,537:arduino_manager:Problema al enviar comando: b'\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-11 18:32:13,541:arduino_manager:Problema al enviar comando: b'm\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-11 18:32:13,542:main:Escaneada la muestra numero:3
+2022-05-11 18:32:13,584:arduino_manager:Problema al enviar comando: b'\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-11 18:32:13,584:arduino_manager:Problema al enviar comando: b'e\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-12 07:30:20,796:User_settings:Maquina: jetson
+2022-05-12 07:30:20,810:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-12 07:30:20,812:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-12 07:30:20,815:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-12 07:30:23,333:main:Puertos listos, comenzando programa
+2022-05-12 07:30:24,157:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-12 07:30:24,158:main:----------------------------Process started--------------------------
+2022-05-12 07:34:16,369:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1207_30_24
+2022-05-12 07:34:16,370:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-12 08:04:16,370:main_functions:Placa 1 decantacion completa
+2022-05-12 08:04:16,370:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1207_30_24
+2022-05-12 08:51:06,100:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1207_30_24 Complete
+2022-05-12 08:51:16,256:main:Escaneada la muestra numero:0
+2022-05-12 08:51:16,906:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-04-2916_28_04
+2022-05-12 08:56:09,308:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1208_51_16
+2022-05-12 08:56:09,308:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-12 09:26:09,308:main_functions:Placa 1 decantacion completa
+2022-05-12 09:26:09,309:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1208_51_16
+2022-05-12 13:00:25,597:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1208_51_16 Complete
+2022-05-12 13:00:35,742:main:Escaneada la muestra numero:1
+2022-05-12 13:06:52,823:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1213_00_35
+2022-05-12 13:06:52,824:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-12 13:36:52,824:main_functions:Placa 1 decantacion completa
+2022-05-12 13:36:52,824:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1213_00_35
+2022-05-12 14:23:40,296:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1213_00_35 Complete
+2022-05-12 14:23:50,416:main:Escaneada la muestra numero:2
+2022-05-12 14:27:41,145:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1214_23_50
+2022-05-12 14:27:41,148:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-12 14:57:41,148:main_functions:Placa 1 decantacion completa
+2022-05-12 14:57:41,148:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1214_23_50
+2022-05-12 18:31:57,748:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1214_23_50 Complete
+2022-05-12 18:32:07,872:main:Escaneada la muestra numero:3
+2022-05-12 18:32:18,232:main_functions:Sin energia
+2022-05-12 18:37:23,582:main_functions:Sin energia
+2022-05-12 18:42:28,986:main_functions:Sin energia
+2022-05-12 18:47:34,369:main_functions:Sin energia
+2022-05-12 18:52:39,761:main_functions:Sin energia
+2022-05-12 18:57:45,080:main_functions:Sin energia
+2022-05-12 19:02:50,480:main_functions:Sin energia
+2022-05-12 19:07:55,879:main_functions:Sin energia
+2022-05-12 19:13:01,200:main_functions:Sin energia
+2022-05-12 19:18:06,552:main_functions:Sin energia
+2022-05-12 19:23:11,860:main_functions:Sin energia
+2022-05-12 19:28:17,210:main_functions:Sin energia
+2022-05-12 19:33:22,516:main_functions:Sin energia
+2022-05-12 19:05:57,871:User_settings:Maquina: jetson
+2022-05-12 19:05:57,886:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-12 19:05:57,890:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-12 19:05:57,891:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-12 19:06:00,215:main:Puertos listos, comenzando programa
+2022-05-12 19:06:00,979:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-12 19:06:00,980:main:----------------------------Process started--------------------------
+2022-05-13 07:33:45,229:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1219_06_01
+2022-05-13 07:33:45,232:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-13 08:03:45,232:main_functions:Placa 1 decantacion completa
+2022-05-13 08:03:45,232:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1219_06_01
+2022-05-13 08:50:47,053:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1219_06_01 Complete
+2022-05-13 08:50:57,231:main:Escaneada la muestra numero:0
+2022-05-13 08:55:49,629:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1308_50_57
+2022-05-13 08:55:49,630:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-13 09:25:49,630:main_functions:Placa 1 decantacion completa
+2022-05-13 09:25:49,630:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1308_50_57
+2022-05-13 13:00:17,965:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1308_50_57 Complete
+2022-05-13 13:00:28,149:main:Escaneada la muestra numero:1
+2022-05-13 13:06:45,224:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1313_00_28
+2022-05-13 13:06:45,225:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-13 13:36:45,225:main_functions:Placa 1 decantacion completa
+2022-05-13 13:36:45,225:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1313_00_28
+2022-05-13 14:23:45,837:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1313_00_28 Complete
+2022-05-13 14:23:56,019:main:Escaneada la muestra numero:2
+2022-05-13 14:27:46,763:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1314_23_56
+2022-05-13 14:27:46,764:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-13 14:57:46,764:main_functions:Placa 1 decantacion completa
+2022-05-13 14:57:46,764:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1314_23_56
+2022-05-13 18:32:14,244:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1314_23_56 Complete
+2022-05-13 18:32:24,405:main:Escaneada la muestra numero:3
+2022-05-13 18:32:34,738:main_functions:Sin energia
+2022-05-13 18:37:40,038:main_functions:Sin energia
+2022-05-13 18:42:45,375:main_functions:Sin energia
+2022-05-13 18:47:50,673:main_functions:Sin energia
+2022-05-13 18:52:56,072:main_functions:Sin energia
+2022-05-13 18:58:01,459:main_functions:Sin energia
+2022-05-13 19:03:06,780:main_functions:Sin energia
+2022-05-13 19:08:12,074:main_functions:Sin energia
+2022-05-13 19:13:17,373:main_functions:Sin energia
+2022-05-13 19:18:22,751:main_functions:Sin energia
+2022-05-13 19:23:28,060:main_functions:Sin energia
+2022-05-13 19:28:33,408:main_functions:Sin energia
+2022-05-13 19:33:38,777:main_functions:Sin energia
+                                                   2022-05-14 07:30:25,585:User_settings:Maquina: jetson
+2022-05-14 07:30:25,601:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-14 07:30:25,604:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-14 07:30:25,605:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-14 07:30:28,032:main:Puertos listos, comenzando programa
+2022-05-14 07:30:28,937:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-14 07:30:28,937:main:----------------------------Process started--------------------------
+2022-05-14 07:34:21,072:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1407_30_28
+2022-05-14 07:34:21,073:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-14 08:04:21,073:main_functions:Placa 1 decantacion completa
+2022-05-14 08:04:21,073:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1407_30_28
+2022-05-14 08:51:11,513:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1407_30_28 Complete
+2022-05-14 08:51:21,698:main:Escaneada la muestra numero:0
+2022-05-14 08:51:22,399:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-05-0107_30_16
+2022-05-14 08:56:14,809:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1408_51_22
+2022-05-14 08:56:14,813:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-14 09:26:14,813:main_functions:Placa 1 decantacion completa
+2022-05-14 09:26:14,813:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1408_51_22
+2022-05-14 13:00:27,946:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1408_51_22 Complete
+2022-05-14 13:00:38,078:main:Escaneada la muestra numero:1
+2022-05-14 13:06:55,124:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1413_00_38
+2022-05-14 13:06:55,124:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-14 13:36:55,124:main_functions:Placa 1 decantacion completa
+2022-05-14 13:36:55,125:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1413_00_38
+2022-05-14 14:23:41,056:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1413_00_38 Complete
+2022-05-14 14:23:51,216:main:Escaneada la muestra numero:2
+2022-05-14 14:27:41,954:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1414_23_51
+2022-05-14 14:27:41,954:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-14 14:57:41,955:main_functions:Placa 1 decantacion completa
+2022-05-14 14:57:41,955:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1414_23_51
+2022-05-14 18:32:04,682:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1414_23_51 Complete
+2022-05-14 18:32:14,839:main:Escaneada la muestra numero:3
+2022-05-14 18:32:15,598:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-05-0108_38_51
+2022-05-14 18:32:25,913:main_functions:Sin energia
+2022-05-14 18:37:31,212:main_functions:Sin energia
+2022-05-14 18:42:36,553:main_functions:Sin energia
+2022-05-14 18:47:41,950:main_functions:Sin energia
+2022-05-14 18:52:47,332:main_functions:Sin energia
+2022-05-14 18:57:52,695:main_functions:Sin energia
+2022-05-14 19:02:58,082:main_functions:Sin energia
+2022-05-14 19:08:03,487:main_functions:Sin energia
+2022-05-14 19:13:08,851:main_functions:Sin energia
+2022-05-14 19:18:14,225:main_functions:Sin energia
+2022-05-14 19:23:19,604:main_functions:Sin energia
+2022-05-14 19:28:24,974:main_functions:Sin energia
+2022-05-14 19:33:30,257:main_functions:Sin energia
+2022-05-15 07:30:36,258:User_settings:Maquina: jetson
+2022-05-15 07:30:36,271:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-15 07:30:36,274:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-15 07:30:36,275:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-15 07:30:39,089:main:Puertos listos, comenzando programa
+2022-05-15 07:30:39,870:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-15 07:30:39,871:main:----------------------------Process started--------------------------
+2022-05-15 07:34:32,045:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1507_30_39
+2022-05-15 07:34:32,045:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-15 08:04:32,045:main_functions:Placa 1 decantacion completa
+2022-05-15 08:04:32,046:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1507_30_39
+2022-05-15 08:51:23,273:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1507_30_39 Complete
+2022-05-15 08:51:33,393:main:Escaneada la muestra numero:0
+2022-05-15 08:56:25,748:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1508_51_33
+2022-05-15 08:56:25,749:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-15 09:26:25,749:main_functions:Placa 1 decantacion completa
+2022-05-15 09:26:25,749:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1508_51_33
+2022-05-15 13:00:36,617:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1508_51_33 Complete
+2022-05-15 13:00:46,734:main:Escaneada la muestra numero:1
+2022-05-15 13:00:57,084:main_functions:Sin energia
+2022-05-15 13:06:02,405:main_functions:Sin energia
+2022-05-15 13:11:07,797:main_functions:Sin energia
+2022-05-15 13:16:13,107:main_functions:Sin energia
+2022-05-15 13:21:18,416:main_functions:Sin energia
+2022-05-15 13:26:23,722:main_functions:Sin energia
+2022-05-15 13:31:29,123:main_functions:Sin energia
+2022-05-15 13:36:34,465:main_functions:Sin energia
+2022-05-15 13:41:39,773:main_functions:Sin energia
+2022-05-15 13:46:45,138:main_functions:Sin energia
+2022-05-15 13:51:50,502:main_functions:Sin energia
+2022-05-15 13:56:55,881:main_functions:Se reconecto la energia
+2022-05-15 14:03:02,609:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1513_00_46
+2022-05-15 14:03:02,612:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-15 14:33:02,611:main_functions:Placa 1 decantacion completa
+2022-05-15 14:33:02,612:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1513_00_46
+2022-05-15 15:19:51,769:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1513_00_46 Complete
+2022-05-15 15:20:01,921:main:Escaneada la muestra numero:2
+2022-05-15 15:20:03,152:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-05-0112_35_47
+2022-05-15 15:23:53,835:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1515_20_03
+2022-05-15 15:23:53,836:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-15 15:53:53,836:main_functions:Placa 1 decantacion completa
+2022-05-15 15:53:53,836:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1515_20_03
+2022-05-15 19:28:13,929:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1515_20_03 Complete
+2022-05-15 19:28:24,052:main:Escaneada la muestra numero:3
+2022-05-15 19:28:34,409:main_functions:Sin energia
+2022-05-16 07:30:10,458:User_settings:Maquina: jetson
+2022-05-16 07:30:10,471:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-16 07:30:10,474:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-16 07:30:10,475:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-16 07:30:13,098:main:Puertos listos, comenzando programa
+2022-05-16 07:30:13,737:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-16 07:30:13,737:main:----------------------------Process started--------------------------
+2022-05-16 07:34:05,937:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1607_30_13
+2022-05-16 07:34:05,938:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-16 08:04:05,938:main_functions:Placa 1 decantacion completa
+2022-05-16 08:04:05,938:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1607_30_13
+2022-05-16 08:50:56,529:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1607_30_13 Complete
+2022-05-16 08:51:06,686:main:Escaneada la muestra numero:0
+2022-05-16 08:55:59,125:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1608_51_06
+2022-05-16 08:55:59,128:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-16 09:25:59,128:main_functions:Placa 1 decantacion completa
+2022-05-16 09:25:59,128:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1608_51_06
+2022-05-16 13:00:49,109:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1608_51_06 Complete
+2022-05-16 13:00:59,252:main:Escaneada la muestra numero:1
+2022-05-16 13:01:00,799:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-05-0113_46_48
+2022-05-16 13:01:04,893:arduino_manager:Problema al enviar comando: b'\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-16 13:01:05,417:main:Interrumpido manualmente
+2022-05-16 13:19:28,635:User_settings:Maquina: jetson
+2022-05-16 13:19:28,648:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-16 13:19:28,650:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-16 13:19:28,652:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-16 13:19:30,991:main:Puertos listos, comenzando programa
+2022-05-16 13:19:31,866:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-16 13:19:31,867:main:----------------------------Process started--------------------------
+2022-05-16 13:23:24,092:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1613_19_31
+2022-05-16 13:23:24,092:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-16 13:53:24,092:main_functions:Placa 1 decantacion completa
+2022-05-16 13:53:24,093:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1613_19_31
+2022-05-16 14:40:17,738:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1613_19_31 Complete
+2022-05-16 14:40:27,879:main:Escaneada la muestra numero:0
+2022-05-16 14:45:20,255:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1614_40_27
+2022-05-16 14:45:20,259:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-16 15:15:20,259:main_functions:Placa 1 decantacion completa
+2022-05-16 15:15:20,259:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1614_40_27
+2022-05-16 16:02:02,926:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1614_40_27 Complete
+2022-05-16 16:02:13,052:main:Escaneada la muestra numero:1
+2022-05-16 16:08:30,090:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1616_02_13
+2022-05-16 16:08:30,091:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-16 16:38:30,091:main_functions:Placa 1 decantacion completa
+2022-05-16 16:38:30,091:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1616_02_13
+2022-05-16 17:25:15,374:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1616_02_13 Complete
+2022-05-16 17:25:25,497:main:Escaneada la muestra numero:2
+2022-05-16 17:25:26,377:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-05-0207_30_51
+2022-05-16 17:25:36,706:main_functions:Sin energia
+2022-05-16 17:30:42,017:main_functions:Sin energia
+2022-05-16 17:35:47,398:main_functions:Sin energia
+2022-05-16 17:40:52,740:main_functions:Sin energia
+2022-05-16 17:45:58,142:main_functions:Sin energia
+2022-05-16 17:51:03,532:main_functions:Sin energia
+2022-05-16 17:56:08,923:main_functions:Sin energia
+2022-05-16 18:01:09,008:arduino_manager:Problema al enviar comando: b'e\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-17 07:29:44,692:User_settings:Maquina: jetson
+2022-05-17 07:29:44,706:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-17 07:29:44,709:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-17 07:29:44,711:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-17 07:29:47,093:main:Puertos listos, comenzando programa
+2022-05-17 07:29:47,770:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-17 07:29:47,771:main:----------------------------Process started--------------------------
+2022-05-17 07:33:39,873:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1707_29_47
+2022-05-17 07:33:39,874:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-17 08:03:39,874:main_functions:Placa 1 decantacion completa
+2022-05-17 08:03:39,874:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1707_29_47
+2022-05-17 08:50:23,906:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1707_29_47 Complete
+2022-05-17 08:50:34,047:main:Escaneada la muestra numero:0
+2022-05-17 08:55:26,415:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1708_50_34
+2022-05-17 08:55:26,415:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-17 09:25:26,415:main_functions:Placa 1 decantacion completa
+2022-05-17 09:25:26,416:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1708_50_34
+2022-05-17 10:12:01,433:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1708_50_34 Complete
+2022-05-17 10:12:11,562:main:Escaneada la muestra numero:1
+2022-05-17 10:18:28,635:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1710_12_11
+2022-05-17 10:18:28,639:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-17 10:48:28,638:main_functions:Placa 1 decantacion completa
+2022-05-17 10:48:28,639:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1710_12_11
+2022-05-17 11:35:12,101:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1710_12_11 Complete
+2022-05-17 11:35:22,272:main:Escaneada la muestra numero:2
+2022-05-17 11:35:23,595:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-05-0208_39_28
+2022-05-17 11:39:14,285:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1711_35_23
+2022-05-17 11:39:14,285:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-17 12:09:14,285:main_functions:Placa 1 decantacion completa
+2022-05-17 12:09:14,286:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1711_35_23
+2022-05-17 12:55:58,949:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1711_35_23 Complete
+2022-05-17 12:56:09,081:main:Escaneada la muestra numero:3
+2022-05-17 12:56:19,433:main_functions:Sin energia
+2022-05-17 13:01:24,775:main_functions:Sin energia
+2022-05-17 13:06:30,076:main_functions:Sin energia
+2022-05-17 13:11:35,422:main_functions:Se reconecto la energia
+2022-05-17 13:16:17,513:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1712_56_09
+2022-05-17 13:16:17,516:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-17 13:46:17,516:main_functions:Placa 1 decantacion completa
+2022-05-17 13:46:17,516:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1712_56_09
+2022-05-17 14:32:57,839:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1712_56_09 Complete
+2022-05-17 14:33:08,007:main:Escaneada la muestra numero:4
+2022-05-17 14:33:08,887:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-05-0212_36_12
+2022-05-17 14:39:25,976:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1714_33_08
+2022-05-17 14:39:25,977:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-17 15:09:25,977:main_functions:Placa 1 decantacion completa
+2022-05-17 15:09:25,977:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1714_33_08
+2022-05-17 15:56:06,853:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1714_33_08 Complete
+2022-05-17 15:56:17,025:main:Escaneada la muestra numero:5
+2022-05-17 16:00:07,839:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1715_56_17
+2022-05-17 16:00:07,842:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-17 16:30:07,842:main_functions:Placa 1 decantacion completa
+2022-05-17 16:30:07,842:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1715_56_17
+2022-05-17 17:16:45,319:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1715_56_17 Complete
+2022-05-17 17:16:55,475:main:Escaneada la muestra numero:6
+2022-05-17 17:17:05,850:main_functions:Sin energia
+2022-05-17 17:22:11,199:main_functions:Sin energia
+2022-05-17 17:27:16,547:main_functions:Sin energia
+2022-05-17 17:32:21,844:main_functions:Sin energia
+2022-05-17 17:37:27,170:main_functions:Sin energia
+2022-05-17 17:42:32,497:main_functions:Sin energia
+2022-05-17 17:47:37,802:main_functions:Sin energia
+2022-05-17 17:52:43,202:main_functions:Sin energia
+2022-05-17 17:57:48,593:main_functions:Sin energia
+2022-05-17 18:02:48,663:arduino_manager:Problema al enviar comando: b'e\n', antes se enviava nuevamente, esa parte esta comentada
+2022-05-18 07:30:16,724:User_settings:Maquina: jetson
+2022-05-18 07:30:16,739:User_settings:Calibration device port: /dev/ttyACM0
+2022-05-18 07:30:16,742:User_settings:Grlb device port: /dev/ttyACM2
+2022-05-18 07:30:16,743:User_settings:Local storage path: /media/sams4/UNTITLED
+2022-05-18 07:30:19,465:main:Puertos listos, comenzando programa
+2022-05-18 07:30:20,356:main:Comenzando muestreo continuado por 20 antes de reiniciar
+2022-05-18 07:30:20,357:main:----------------------------Process started--------------------------
+2022-05-18 07:34:12,507:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1807_30_20
+2022-05-18 07:34:12,507:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-18 08:04:12,507:main_functions:Placa 1 decantacion completa
+2022-05-18 08:04:12,508:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1807_30_20
+2022-05-18 08:50:53,406:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1807_30_20 Complete
+2022-05-18 08:51:03,529:main:Escaneada la muestra numero:0
+2022-05-18 08:51:04,384:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-05-0213_47_17
+2022-05-18 08:55:56,786:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1808_51_04
+2022-05-18 08:55:56,786:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-18 09:25:56,786:main_functions:Placa 1 decantacion completa
+2022-05-18 09:25:56,787:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1808_51_04
+2022-05-18 10:12:43,899:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1808_51_04 Complete
+2022-05-18 10:12:54,089:main:Escaneada la muestra numero:1
+2022-05-18 10:19:11,167:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1810_12_54
+2022-05-18 10:19:11,171:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-18 10:49:11,170:main_functions:Placa 1 decantacion completa
+2022-05-18 10:49:11,171:main:comienzo captura en placa 1 de profundidad c que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1810_12_54
+2022-05-18 11:35:52,970:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1810_12_54 Complete
+2022-05-18 11:36:03,091:main:Escaneada la muestra numero:2
+2022-05-18 11:39:53,870:main:Se cargo agua de a en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1811_36_03
+2022-05-18 11:39:53,870:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-18 12:09:53,870:main_functions:Placa 1 decantacion completa
+2022-05-18 12:09:53,871:main:comienzo captura en placa 1 de profundidad a que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1811_36_03
+2022-05-18 12:56:42,756:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1811_36_03 Complete
+2022-05-18 12:56:52,894:main:Escaneada la muestra numero:3
+2022-05-18 12:56:53,835:file_manager:No hay 5000 MB disponibles, se procede a borrar 2022-05-0307_31_00
+2022-05-18 13:01:46,198:main:Se cargo agua de b en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1812_56_53
+2022-05-18 13:01:46,199:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
+2022-05-18 13:31:46,199:main_functions:Placa 1 decantacion completa
+2022-05-18 13:31:46,199:main:comienzo captura en placa 1 de profundidad b que sera guardad en carpeta /media/sams4/UNTITLED/2022-05-1812_56_53
+2022-05-18 14:18:30,474:main_functions:Folder :/media/sams4/UNTITLED/2022-05-1812_56_53 Complete
+2022-05-18 14:18:40,597:main:Escaneada la muestra numero:4
+2022-05-18 14:24:57,683:main:Se cargo agua de c en la placa 1 que se guardara en carpeta /media/sams4/UNTITLED/2022-05-1814_18_40
+2022-05-18 14:24:57,685:main_functions:La placa 1 comenzo el proceso de decantacion que dura 30.0 minutos
